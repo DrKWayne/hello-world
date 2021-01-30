@@ -1,3 +1,4 @@
 # hello-world
 Learning about GitHub
-Read me edits - testing
+Commit message by adding a branch called readme-edits
+
